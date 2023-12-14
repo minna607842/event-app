@@ -2,3 +2,5 @@
 - React Natitve
 - Typescript
 - AWS-Amplify
+
+ダウンロード：[singleones..dev]
