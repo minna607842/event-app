@@ -1,4 +1,4 @@
 # 個人開発のイベントアプリを一部抜粋したもの
-- React Naitve
+- React Natitve
 - Typescript
 - AWS-Amplify
