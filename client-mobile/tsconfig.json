@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./",
+    "strict": false,
+    "allowSyntheticDefaultImports": true,
+    "skipLibCheck": true,
+    "resolveJsonModule": true,
+    "moduleResolution": "nodenext",
+    "paths": {
+      "@sh/*":  ["../shared/*"],
+      "shared/*":  ["../shared/*"]
+    },
+  },
+  "extends": "expo/tsconfig.base",
+  "typeRoots": ["./typings"]
+}
