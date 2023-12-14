@@ -3,4 +3,4 @@
 - Typescript
 - AWS-Amplify
 
-ダウンロード：[singleones..dev]
+少人数向け雑談・対話イベントアプリ：[https://singleones..dev]
