@@ -18,5 +18,6 @@ https://singleones.dev
 - Typescript
 - AWS-Amplify
 - Stripe
+- RevenueCat
 
 
